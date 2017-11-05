@@ -1,0 +1,4 @@
+* Bayelter
+
+A library that implements a naive Bayes classifier to filter undesired messages,
+i.e. spam, in real-time applications.
